@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of baby yoda](https://ca-times.brightspotcdn.com/dims4/default/3d72bef/2147483647/strip/true/crop/2812x1607+0+0/resize/840x480!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F72%2Fd6%2F08d31f2640ec8cd5030ed0c08f5f%2Fwpbloom.jpg)
